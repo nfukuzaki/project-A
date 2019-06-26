@@ -1,4 +1,4 @@
 abc
 def
 ghi
-
+This line is added by the project-base
